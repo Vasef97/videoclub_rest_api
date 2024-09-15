@@ -4,7 +4,6 @@ import java.time.LocalDate;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
-//import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -13,8 +12,6 @@ import com.ltp.videoclubs.entity.Videoclub;
 import com.ltp.videoclubs.repository.MovieRepository;
 import com.ltp.videoclubs.repository.VideoclubRepository;
 
-//import com.ltp.videoclubs.entity.Videoclub;
-//import com.ltp.videoclubs.repository.VideoclubRepository;
 
 @SpringBootApplication
 public class VideoclubsApplication implements CommandLineRunner {

@@ -1,0 +1,14 @@
+com/ltp/videoclubs/service/VideoclubServiceImpl.class
+com/ltp/videoclubs/entity/Videoclub.class
+com/ltp/videoclubs/entity/Movie.class
+com/ltp/videoclubs/service/VideoclubService.class
+com/ltp/videoclubs/repository/VideoclubRepository.class
+com/ltp/videoclubs/service/MovieService.class
+com/ltp/videoclubs/web/MovieController.class
+com/ltp/videoclubs/service/MovieServiceImpl.class
+com/ltp/videoclubs/exception/MovieNotFoundException.class
+com/ltp/videoclubs/VideoclubsApplication.class
+com/ltp/videoclubs/exception/VideoclubNotFoundException.class
+com/ltp/videoclubs/repository/MovieRepository.class
+com/ltp/videoclubs/config/OpenApiConfig.class
+com/ltp/videoclubs/web/VideoclubController.class

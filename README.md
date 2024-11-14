@@ -1,5 +1,5 @@
 # videoclub_rest_api
-This project is a robust Spring Boot API designed to manage videoclubs and their movie collections. It leverages JPA for data persistence and utilizes an H2 in-memory database for local development and testing. It features custom exceptions for better error management and API documentation through OpenAPI.
+This project is a robust Spring Boot API designed to manage videoclubs and their movie collections. It leverages JPA for data persistence and utilizes an H2 in-memory database for local development and testing. It features custom exceptions for better error management and API documentation through OpenAPI. The Spring API includes cross-origin resource sharing (CORS) settings, allowing requests from the React app, which runs on a different port.
 
 To run this API please follow these steps:
 1. Navigate to videoclub_rest_api dir
